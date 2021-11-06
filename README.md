@@ -1,1 +1,4 @@
-# README.md
+- 👋 Welcome, my name is Arturo! 
+- 👀 Fields of interest are quant trading, finance, and software engineering in general
+- 🌱 I’m studying Math at UCLA with a specialization in CS
+- 📫 You can contact me at arturorodrigues2000@gmail.com
